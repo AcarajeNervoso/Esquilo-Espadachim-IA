@@ -20,7 +20,7 @@ Diagrama explicitando as Maquinas de Estado e como usa-los:
 
 Lista de Ações do Personagem 
 ----
-A ou D = Movimentação do personagem, esquerda e direita respectivamente\n
+A ou D = Movimentação do personagem, esquerda e direita respectivamente/n
 A ou D + J = Ação Correr
 W = Ação Climb (Escalada perto de uma parede)
 Espaço = Ação de Pular
