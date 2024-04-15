@@ -1,4 +1,4 @@
-# [JD0007] Inteligencia Artifical de Jogos Digitais 
+# Inteligencia Artifical de Jogos Digitais 
 ----
 
 UNEB - 2024
