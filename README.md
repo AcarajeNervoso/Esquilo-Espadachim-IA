@@ -20,8 +20,8 @@ Diagrama explicitando as Maquinas de Estado e como usa-los:
 
 Lista de Ações do Personagem 
 ----
-A e D = Movimentação do personagem, esquerda e direita respectivamente\**
-A e D + J = Ação Correr
+A ou D = Movimentação do personagem, esquerda e direita respectivamente\n
+A ou D + J = Ação Correr
 W = Ação Climb (Escalada perto de uma parede)
 Espaço = Ação de Pular
 Ctrl = Agachar 
@@ -29,3 +29,4 @@ Ctrl + A ou D = Ação Sneak
 K = Attack A
 K + W = Attack B
 K + S = Attack C
+A ou D durante Wall Slide = Hanging
