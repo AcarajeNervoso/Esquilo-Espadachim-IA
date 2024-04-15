@@ -15,6 +15,17 @@ https://youtu.be/8udzXofU3RY
 
 Diagrama da Maquina de Estados Finitos 
 ----
-Diagrama explicitando as Maquinas de Estado e como usa-los
+Diagrama explicitando as Maquinas de Estado e como usa-los:
 ![Fluxograma Esquilo](https://github.com/AcarajeNervoso/Esquilo-Espadachim-IA/assets/112403332/2b2ab3f7-642f-4b9d-a2e9-8557d9250383)
 
+Lista de Ações do Personagem 
+----
+A e D = Movimentação do personagem, esquerda e direita respectivamente
+A e D + J = Ação Correr
+W = Ação Climb (Escalada perto de uma parede)
+Espaço = Ação de Pular
+Ctrl = Agachar 
+Ctrl + A ou D = Ação Sneak
+K = Attack A
+K + W = Attack B
+K + S = Attack C
