@@ -12,3 +12,7 @@ Video de gameplay
 ----
 Gameplay do projeto, diretamente do Unity mostrando os Estados de Maquina Finitos aplicado ao projeto.
 https://youtu.be/8udzXofU3RY
+
+Diagrama da Maquina de Estados Finitos 
+----
+!https://drive.google.com/file/d/1nTBcA6Yd8RGntZF6sDIre2q4_CE2CYlR/view
